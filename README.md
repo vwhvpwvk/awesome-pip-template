@@ -7,9 +7,9 @@ This is a template for installing github repo through pip
 
 #### command line:
 ```
-git clone https://github.com/vwhvpwvk/pip-template.git
+git clone https://github.com/vwhvpwvk/awesome-pip-template.git
 
-cd pip-template
+cd awesome-pip-template
 
 pip install .
 
