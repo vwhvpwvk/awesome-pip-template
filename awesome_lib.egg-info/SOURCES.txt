@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-awesome_lib/__init__.py
-awesome_lib/awesome_submodule.py
-awesome_lib.egg-info/PKG-INFO
-awesome_lib.egg-info/SOURCES.txt
-awesome_lib.egg-info/dependency_links.txt
-awesome_lib.egg-info/top_level.txt
